@@ -1,0 +1,20 @@
+{
+  "name": "Kanji N3 Card Game",
+  "short_name": "N3 Kanji",
+  "start_url": "./kanji-n3-card-game.html",
+  "display": "standalone",
+  "background_color": "#f5f5fa",
+  "theme_color": "#4f6d7a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
